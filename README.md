@@ -13,9 +13,9 @@ Ideal para aprendizado de:
 
 / ── sistema-login-poo
 ├─ index.php
-├─ cadastro.html
 ├─ cadastro.php
-├─ login.html
+├─ cadastro.php
+├─ login.php
 ├─ login.php
 ├─ processacad.php
 ├─ exemplo-login.php
@@ -24,10 +24,10 @@ Ideal para aprendizado de:
 
 Descrição dos Arquivos
 
-index.html
+index.php
 Página inicial do sistema.
 
-cadastro.html
+cadastro.php
 Formulário de cadastro de novos usuários.
 
 cadastro.php
@@ -36,7 +36,7 @@ Script que processa o cadastro no banco de dados.
 processacad.php
 Processa os dados enviados pelo formulário de cadastro.
 
-login.html
+login.php
 Formulário para login de usuários.
 
 login.php
