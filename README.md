@@ -13,12 +13,12 @@ Ideal para aprendizado de:
 
 / ── sistema-login-poo
 ├─ index.php
-├─ cadastro.php
+├─ cad.php
 ├─ cadastro.php
 ├─ login.php
-├─ login.php
-├─ processacad.php
-├─ exemplo-login.php
+├─ processa_login.php
+├─ processa_cadastro.php
+├─ process_cadastro.php
 └─ banco de dados: sistema_login (MySQL)
 
 
