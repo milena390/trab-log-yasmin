@@ -33,7 +33,7 @@ Formulário de cadastro de novos usuários.
 cadastro.php
 Script que processa o cadastro no banco de dados.
 
-processacad.php
+processa_cadastro.php
 Processa os dados enviados pelo formulário de cadastro.
 
 login.php
